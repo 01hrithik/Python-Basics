@@ -12,4 +12,18 @@
 -> for you find used to called ur name, 
 -> similarlly in programming varrible here called  and printed
 
+-> Types of Data :
+$ integer
+$ float
+$ string
+$ boolean
+
+
+# Example,
+
+-> name = "Hrithik Gorane" #string
+-> is_alive = True # boolean
+-> city = "Surat" # string
+-> age = 22  # integer
+-> bal = 100000000.89 # float
 
